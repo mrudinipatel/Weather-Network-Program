@@ -15,12 +15,13 @@ add a weather image depicting the weather forecast (i.e. a sun if forecast is su
 that it is more easily accessible.
 
 ### Compilation & Execution Command
+(Ensure you have the correct Python version installed)
 
-python3.9 -u weather.py
-
+```python3.9 -u weather.py```
 
 ### Video Demonstration
 
+https://user-images.githubusercontent.com/68040676/148349354-be78b04e-c045-433f-9be6-bc2575421ffa.mov
 
-https://user-images.githubusercontent.com/68040676/148348915-17c6c37f-112c-4184-88b0-a1e6e6d378d5.mov
+
 
